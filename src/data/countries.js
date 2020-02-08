@@ -24,7 +24,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 48.01
         },
         {
@@ -36,7 +36,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 44.99
         },
         {
@@ -54,13 +54,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 450.55
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 667.07
         },
         {
@@ -179,7 +179,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 49.36
         },
         {
@@ -191,7 +191,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 46.07
         },
         {
@@ -209,13 +209,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 459.64
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 660.33
         },
         {
@@ -334,7 +334,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 50.75
         },
         {
@@ -346,7 +346,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 47.2
         },
         {
@@ -364,13 +364,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 469.08
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 665.77
         },
         {
@@ -489,7 +489,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 52.2
         },
         {
@@ -501,7 +501,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 48.39
         },
         {
@@ -519,13 +519,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 478.83
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 682.34
         },
         {
@@ -644,7 +644,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 53.74
         },
         {
@@ -656,7 +656,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 49.63
         },
         {
@@ -674,13 +674,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 488.85
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 698.36
         },
         {
@@ -799,7 +799,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 55.39
         },
         {
@@ -811,7 +811,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 50.92
         },
         {
@@ -829,13 +829,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 499.12
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 715.19
         },
         {
@@ -954,7 +954,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown.",
           "pop": 57.16
         },
         {
@@ -966,7 +966,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 52.26
         },
         {
@@ -984,13 +984,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 509.63
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 735.4
         },
         {
@@ -1109,7 +1109,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 59.03
         },
         {
@@ -1121,7 +1121,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 53.66
         },
         {
@@ -1139,13 +1139,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 520.4
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 754.55
         },
         {
@@ -1264,7 +1264,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 60.92
         },
         {
@@ -1276,7 +1276,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 55.1
         },
         {
@@ -1294,13 +1294,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 531.51
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 774.51
         },
         {
@@ -1419,7 +1419,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 62.68
         },
         {
@@ -1431,7 +1431,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 56.6
         },
         {
@@ -1449,13 +1449,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 543.08
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 796.03
         },
         {
@@ -1574,7 +1574,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 64.23
         },
         {
@@ -1586,7 +1586,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 58.14
         },
         {
@@ -1604,13 +1604,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 555.19
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 818.32
         },
         {
@@ -1729,7 +1729,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 65.53
         },
         {
@@ -1741,7 +1741,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 59.73
         },
         {
@@ -1759,13 +1759,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 567.87
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 841.11
         },
         {
@@ -1884,7 +1884,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 66.63
         },
         {
@@ -1896,7 +1896,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 61.38
         },
         {
@@ -1914,13 +1914,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 581.09
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 862.03
         },
         {
@@ -2039,7 +2039,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 67.64
         },
         {
@@ -2051,7 +2051,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 63.1
         },
         {
@@ -2069,13 +2069,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 594.77
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 881.94
         },
         {
@@ -2194,7 +2194,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 68.74
         },
         {
@@ -2206,7 +2206,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 64.91
         },
         {
@@ -2224,13 +2224,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 608.8
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 900.35
         },
         {
@@ -2349,7 +2349,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 70.07
         },
         {
@@ -2361,7 +2361,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 66.82
         },
         {
@@ -2379,13 +2379,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 623.1
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 916.4
         },
         {
@@ -2504,7 +2504,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 71.65
         },
         {
@@ -2516,7 +2516,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 68.83
         },
         {
@@ -2534,13 +2534,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 637.63
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 930.69
         },
         {
@@ -2659,7 +2659,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 73.46
         },
         {
@@ -2671,7 +2671,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 70.96
         },
         {
@@ -2689,13 +2689,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 652.41
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 943.46
         },
         {
@@ -2814,7 +2814,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 75.45
         },
         {
@@ -2826,7 +2826,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 73.2
         },
         {
@@ -2844,13 +2844,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 667.5
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 956.17
         },
         {
@@ -2969,7 +2969,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 77.53
         },
         {
@@ -2981,7 +2981,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 75.56
         },
         {
@@ -2999,13 +2999,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 683
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 969.01
         },
         {
@@ -3124,7 +3124,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 79.64
         },
         {
@@ -3136,7 +3136,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 78.05
         },
         {
@@ -3154,13 +3154,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 698.95
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 981.24
         },
         {
@@ -3279,7 +3279,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 81.77
         },
         {
@@ -3291,7 +3291,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 80.68
         },
         {
@@ -3309,13 +3309,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 715.38
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 993.89
         },
         {
@@ -3434,7 +3434,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 83.93
         },
         {
@@ -3446,7 +3446,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 83.43
         },
         {
@@ -3464,13 +3464,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 732.24
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1008.63
         },
         {
@@ -3589,7 +3589,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 86.14
         },
         {
@@ -3601,7 +3601,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 86.29
         },
         {
@@ -3619,13 +3619,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 749.43
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1023.31
         },
         {
@@ -3744,7 +3744,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 88.42
         },
         {
@@ -3756,7 +3756,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 89.21
         },
         {
@@ -3774,13 +3774,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 766.83
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1036.83
         },
         {
@@ -3899,7 +3899,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 90.76
         },
         {
@@ -3911,7 +3911,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 92.19
         },
         {
@@ -3929,13 +3929,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 784.36
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1051.04
         },
         {
@@ -4054,7 +4054,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 93.19
         },
         {
@@ -4066,7 +4066,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 95.22
         },
         {
@@ -4084,13 +4084,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 801.98
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1066.79
         },
         {
@@ -4209,7 +4209,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 95.67
         },
         {
@@ -4221,7 +4221,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 98.29
         },
         {
@@ -4239,13 +4239,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 819.68
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1084.04
         },
         {
@@ -4364,7 +4364,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 98.19
         },
         {
@@ -4376,7 +4376,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 101.39
         },
         {
@@ -4394,13 +4394,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 837.47
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1101.63
         },
         {
@@ -4519,7 +4519,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 100.7
         },
         {
@@ -4531,7 +4531,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 104.51
         },
         {
@@ -4549,13 +4549,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 855.33
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1118.65
         },
         {
@@ -4674,7 +4674,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 103.17
         },
         {
@@ -4686,7 +4686,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 107.65
         },
         {
@@ -4704,13 +4704,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 873.28
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1135.19
         },
         {
@@ -4829,7 +4829,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 105.6
         },
         {
@@ -4841,7 +4841,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 110.78
         },
         {
@@ -4859,13 +4859,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 891.27
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1150.78
         },
         {
@@ -4984,7 +4984,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 107.98
         },
         {
@@ -4996,7 +4996,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 113.91
         },
         {
@@ -5014,13 +5014,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 909.31
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1164.97
         },
         {
@@ -5139,7 +5139,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 110.35
         },
         {
@@ -5151,7 +5151,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 117.09
         },
         {
@@ -5169,13 +5169,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 927.4
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1178.44
         },
         {
@@ -5294,7 +5294,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 112.74
         },
         {
@@ -5306,7 +5306,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 120.36
         },
         {
@@ -5324,13 +5324,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 945.6
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1191.84
         },
         {
@@ -5449,7 +5449,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 115.17
         },
         {
@@ -5461,7 +5461,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 123.78
         },
         {
@@ -5479,13 +5479,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 963.92
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1204.86
         },
         {
@@ -5604,7 +5604,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 117.65
         },
         {
@@ -5616,7 +5616,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 127.35
         },
         {
@@ -5634,13 +5634,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 982.37
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1217.55
         },
         {
@@ -5759,7 +5759,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 120.16
         },
         {
@@ -5771,7 +5771,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 131.06
         },
         {
@@ -5789,13 +5789,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1000.9
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1230.08
         },
         {
@@ -5914,7 +5914,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 122.68
         },
         {
@@ -5926,7 +5926,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 134.84
         },
         {
@@ -5944,13 +5944,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1019.48
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1241.94
         },
         {
@@ -6069,7 +6069,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 125.19
         },
         {
@@ -6081,7 +6081,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 138.62
         },
         {
@@ -6099,13 +6099,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1038.06
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1252.73
         },
         {
@@ -6224,7 +6224,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 127.66
         },
         {
@@ -6236,7 +6236,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 142.34
         },
         {
@@ -6254,13 +6254,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1056.58
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1262.65
         },
         {
@@ -6379,7 +6379,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 130.09
         },
         {
@@ -6391,7 +6391,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 145.98
         },
         {
@@ -6409,13 +6409,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1075
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1271.85
         },
         {
@@ -6534,7 +6534,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 132.48
         },
         {
@@ -6546,7 +6546,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 149.55
         },
         {
@@ -6564,13 +6564,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1093.32
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1280.4
         },
         {
@@ -6689,7 +6689,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 134.79
         },
         {
@@ -6701,7 +6701,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 153.09
         },
         {
@@ -6719,13 +6719,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1111.52
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1288.4
         },
         {
@@ -6844,7 +6844,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 136.99
         },
         {
@@ -6856,7 +6856,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 156.66
         },
         {
@@ -6874,13 +6874,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1129.62
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1296.08
         },
         {
@@ -6999,7 +6999,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 139.04
         },
         {
@@ -7011,7 +7011,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 160.3
         },
         {
@@ -7029,13 +7029,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1147.61
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1303.72
         },
         {
@@ -7154,7 +7154,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 140.92
         },
         {
@@ -7166,7 +7166,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 164.02
         },
         {
@@ -7184,13 +7184,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1165.49
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1311.02
         },
         {
@@ -7309,7 +7309,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 142.66
         },
         {
@@ -7321,7 +7321,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 167.81
         },
         {
@@ -7339,13 +7339,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1183.21
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1317.89
         },
         {
@@ -7464,7 +7464,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 144.3
         },
         {
@@ -7476,7 +7476,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 171.65
         },
         {
@@ -7494,13 +7494,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1200.67
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1324.66
         },
         {
@@ -7619,7 +7619,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 145.92
         },
         {
@@ -7631,7 +7631,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 175.53
         },
         {
@@ -7649,13 +7649,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1217.73
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1331.26
         },
         {
@@ -7774,7 +7774,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 147.58
         },
         {
@@ -7786,7 +7786,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 179.42
         },
         {
@@ -7804,13 +7804,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1234.28
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1337.71
         },
         {
@@ -7929,7 +7929,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 149.27
         },
         {
@@ -7941,7 +7941,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 183.34
         },
         {
@@ -7959,13 +7959,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1250.29
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1344.13
         },
         {
@@ -8084,7 +8084,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 151.01
         },
         {
@@ -8096,7 +8096,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 187.28
         },
         {
@@ -8114,13 +8114,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1265.78
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1350.7
         },
         {
@@ -8239,7 +8239,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 152.76
         },
         {
@@ -8251,7 +8251,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 191.26
         },
         {
@@ -8269,13 +8269,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1280.85
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1357.38
         },
         {
@@ -8394,7 +8394,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 154.52
         },
         {
@@ -8406,7 +8406,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 195.31
         },
         {
@@ -8424,13 +8424,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1295.6
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1364.27
         },
         {
@@ -8549,7 +8549,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 156.26
         },
         {
@@ -8561,7 +8561,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 199.43
         },
         {
@@ -8579,13 +8579,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1310.15
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1371.22
         },
         {
@@ -8704,7 +8704,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 157.97
         },
         {
@@ -8716,7 +8716,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 203.63
         },
         {
@@ -8734,13 +8734,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1324.51
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1378.67
         },
         {
@@ -8859,7 +8859,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 159.67
         },
         {
@@ -8871,7 +8871,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime.",
           "pop": 207.9
         },
         {
@@ -8889,13 +8889,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1338.66
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1386.4
         },
         {
@@ -9014,7 +9014,7 @@ export const data = {
         {
           "name": "Bangladesh",
           "flag": "./data/flags/bangladesh.png",
-          "color": "gold",
+          "color": "rosybrown",
           "pop": 161.36
         },
         {
@@ -9026,7 +9026,7 @@ export const data = {
         {
           "name": "Pakistan",
           "flag": "./data/flags/pakistan.png",
-          "color": "green",
+          "color": "lime",
           "pop": 212.22
         },
         {
@@ -9044,13 +9044,13 @@ export const data = {
         {
           "name": "India",
           "flag": "./data/flags/india.png",
-          "color": "lawngreen",
+          "color": "gold",
           "pop": 1352.62
         },
         {
           "name": "China",
           "flag": "./data/flags/china.png",
-          "color": "lime",
+          "color": "green",
           "pop": 1392.73
         },
         {

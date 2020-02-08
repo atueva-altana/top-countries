@@ -12,12 +12,13 @@ const Country = ({ country }) => {
         </div>
         <div className="rect" style={{ 
             height: '32px', 
-            width: country.pop, 
+            width: 100 + country.pop , 
             backgroundColor: country.color 
         }}>
             {country.name}
+            
         </div>
-        <div>
+        <div className="pop" >
             {country.pop}
         </div> 
     </div>

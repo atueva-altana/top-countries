@@ -1,19 +1,16 @@
 import React from 'react'
 import PopCountries from './PopCountries'
 import Header from './Header'
-import { data } from './data/countries'
+
 
 class MainContainer extends React.Component {
-    constructor() {
-        super()
-    }
 
     render() {
-        const { data } = this.props.arr
+        console.log("flag:", this.props.value)
         return (
             <div>
                 <Header />
-                <PopCountries arr={data}/>
+                <PopCountries getYear={this.props.getYear} value={this.props.value} />
             </div>
         )
     }
